@@ -67,8 +67,6 @@ class TagsInputWidget(forms.SelectMultiple):
             ),
         }
         js = (
-            'js/jquery-1.7.2.min.js',
-            'js/jquery-ui-18.1.16.min.js',
             'js/jquery.tagsinput.js',
         )
 
